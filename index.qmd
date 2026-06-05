@@ -1,0 +1,30 @@
+```{=latex}
+\noindent\includegraphics[width=\marginparwidth]{Images/nucmer.pdf}
+```
+
+:::{.content-hidden when-format="html"}:::
+# Home
+:::
+:::{.content-hidden when-format="pdf"}:::
+# Welcome
+:::
+The shared electronic lab notebook of the Doing Com-Bio Lab.
+
+::: {.content-visible when-format="html"}
+
+[![Course Banner](/Images/nucmer2.png){.column-margin #fig-cover}](./Images/nucmer2.png)
+
+:::
+
+## Announcements
+
+
+
+### Something
+::: {#c-desc}
+
+## Something else
+
+
+
+:::

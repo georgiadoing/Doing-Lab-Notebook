@@ -1,0 +1,32 @@
+---
+title: Week 1
+---
+
+# Notes from Week 1
+
+### For Reading/HW
+
+* [Therac25 Summary](https://drive.google.com/file/d/1FJweiphTjsK9qBSGBgJH2rvhsu8XgNJB/view?usp=drive_link)
+* [Therac25 Leveson](https://drive.google.com/file/d/14SG7UVHTHsOmnQJZQOWtf9I1REnDzEd3/view?usp=sharing)
+* [Therac25 Silvis](https://drive.google.com/file/d/1Fp7rYTSh6wgUCUXGGivAyyszGj-slNTU/view?usp=drive_link)
+
+### Monday in class
+
+* [No More DNA (0.5 pts)](https://drive.google.com/file/d/1goRNJ-YOOed2sxqu1jJnj916RGpJZnua/view?usp=sharing)
+
+### Wednesday in class
+
+* [Slides](https://drive.google.com/file/d/1oF6d-NUm2KV4HACoBRAh7jk31OK7CnD1/view?usp=sharing)
+* [What are computers good at? (0.5 pts)](https://drive.google.com/file/d/12zvDbkAlHYddbAkN3xxjR42a-sXQuR5K/view?usp=sharing)
+
+
+### Friday in class
+
+* [Anatomy of a function](https://drive.google.com/file/d/1xhHT8bABQ9KZ7AsCsbJ9Hf4D7XDoM-2k/view?usp=sharing)
+* [Logging on to lab computers](https://drive.google.com/file/d/1OzOTrOZ27cHfnbJ9m2PHSj4iCWzf0T3A/view?usp=sharing)
+* [Pair Programming](https://drive.google.com/file/d/1knRctTEHD-e10ZK1mCXEMk3_azvtBIvE/view?usp=sharing)
+* [Rosalind Problems for Learning Python](https://rosalind.info/problems/list-view/?location=python-village)
+* [Rosalind Bioinformatics Practice Problems](https://rosalind.info/problems/list-view/)
+* [Rosalind Bioinformatics Textbook Problems](https://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track)
+
+
