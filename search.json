@@ -54,7 +54,7 @@
     "href": "04-Notes/labmtg1.html",
     "title": "Lab Meeting 1",
     "section": "",
-    "text": "Lab Meeting: 1\n\nJune 15, 2026",
+    "text": "Lab Meeting: 1\n\nJune 15, 2026\n\nlab meeting structure (first few weeks)\n\n10-15 mins each for project Q&A\nmaybe walk through notebooks from the previous week, if helpful\nflash journal club\n\ndaily scrum - slack\n\nhome or lab\nwhat you’ll focus on\n\nto know what Qs to expect or work together\nto avoid doing the same thing\nto get ideas from each other\n\napprox hours\n\nto synchronize if helpful\nto know when to expect Qs or As\n\n\nworking notebooks vs. notebook notebooks\n\nworking colab for now - for reproducibility\ndata stored in the same google drive folder should be reproducible across accounts..\nUnion supposed to be getting a compute cluster\nnotebook notebooks can be edited in anything (I use VS code)\n\ndon’t require reading in data?\n\n\ngithub seqADAGE https://github.com/georgiadoing/seqADAGE\n\nfork\nclone\nmake project folder within /Py/\nwe’ll start code review in a couple weeks\ngithub tutorials\n\nmaybe try the first..\n\n\ndata in google drive folder (for now)\n\nlater will use Open Science Framework: https://osf.io/\nmaybe this one but maybe a new one\ncould create accounts (union email?)\n\nMisc.\n\nmy office key and keycard",
     "crumbs": [
       "Meeting Notes",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Meeting 1</span>"
@@ -83,11 +83,33 @@
     ]
   },
   {
-    "objectID": "04-Notes/gd_week1.html#to-do",
-    "href": "04-Notes/gd_week1.html#to-do",
+    "objectID": "04-Notes/gd_week1.html#sharedoverall-to-do",
+    "href": "04-Notes/gd_week1.html#sharedoverall-to-do",
     "title": "GD Week 1",
-    "section": "To-do",
-    "text": "To-do\n\nGet lab notebook setup\n[] Decide on repo structure\n[] Plan sampling excursion\nKey access to CAP/crochet\nSchedule lab meetings - update calendar\nGroup meeting once a week\n[] 1-1 meetings also weekly or as-needed\nGet DNA sequences into google drive\n[] Get P.a. DNA seq\n[] Implement tuner method in adage class\n[] E coli gene lists for enrichment analyses\n[] S aureus gene lists for enrichment analysis\n[] P aeruginosa gene lists for enrichment analysis",
+    "section": "Shared/Overall To-do",
+    "text": "Shared/Overall To-do\n\nImplement tuner method in adage class\nE coli gene lists for enrichment analyses\nGet lab notebook setup\nDecide on repo structure\nPlan sampling excursion\nKey access to CAP/crochet\nSchedule lab meetings - update calendar\nGroup meeting once a week\n1-1 meetings also weekly or as-needed",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/gd_week1.html#phylo-learning-to-do",
+    "href": "04-Notes/gd_week1.html#phylo-learning-to-do",
+    "title": "GD Week 1",
+    "section": "Phylo-learning To-do",
+    "text": "Phylo-learning To-do\n\nGet DNA sequences into google drive\nGet P.a. DNA seq\nS aureus gene lists for enrichment analysis\nP aeruginosa gene lists for enrichment analysis",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/gd_week1.html#bio-xai-to-do",
+    "href": "04-Notes/gd_week1.html#bio-xai-to-do",
+    "title": "GD Week 1",
+    "section": "Bio-xAI To-do",
+    "text": "Bio-xAI To-do\n\nmodel to test SHAP tutorial on\ncolaboration with Josh/Ara",
     "crumbs": [
       "Weekly Notes",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 1</span>"
