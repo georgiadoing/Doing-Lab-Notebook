@@ -54,7 +54,7 @@
     "href": "04-Notes/labmtg1.html",
     "title": "Lab Meeting 1",
     "section": "",
-    "text": "Lab Meeting: 1\n\nJune 15, 2026\n\nlab meeting structure (first few weeks)\n\n10-15 mins each for project Q&A\nmaybe walk through notebooks from the previous week, if helpful\nflash journal club\n\ndaily scrum - slack\n\nhome or lab\nwhat you’ll focus on\n\nto know what Qs to expect or work together\nto avoid doing the same thing\nto get ideas from each other\n\napprox hours\n\nto synchronize if helpful\nto know when to expect Qs or As\n\n\nworking notebooks vs. notebook notebooks\n\nMedium post on good jupyter nb habits\nworking colab for now - for reproducibility\ndata stored in the same google drive folder should be reproducible across accounts..\nUnion supposed to be getting a compute cluster\nnotebook notebooks can be edited in anything (I use VS code)\n\ndon’t require reading in data?\n\n\ngithub seqADAGE https://github.com/georgiadoing/seqADAGE\n\nfork\nclone\nmake project folder within /Py/\nwe’ll start code review in a couple weeks\ngithub tutorials\n\nmaybe try the first..\n\n\ndata in google drive folder (for now)\n\nlater will use Open Science Framework: https://osf.io/\nmaybe this one but maybe a new one\ncould create accounts (union email?)\n\nMisc.\n\nmy office key and keycard",
+    "text": "Lab Meeting: 1\n\nJune 15, 2026\n\nlab meeting structure (first few weeks)\n\n10-15 mins each for project Q&A\nmaybe walk through notebooks from the previous week, if helpful\nflash journal club\n\ndaily scrum - slack\n\nhome or lab\nwhat you’ll focus on\n\nto know what Qs to expect or work together\nto avoid doing the same thing\nto get ideas from each other\n\napprox hours\n\nto synchronize if helpful\nto know when to expect Qs or As\n\n\nworking notebooks vs. notebook notebooks\n\nMedium post on good jupyter nb habits\nworking colab for now - for reproducibility\ndata stored in the same google drive folder should be reproducible across accounts..\nUnion supposed to be getting a compute cluster\nnotebook notebooks can be edited in anything\n\nI use VS code with googlde drive desktop synching files\ncould also use colab notebooks, just different ones from working/explorations notebooks\ncould also use online editor that allows md format (eg. Text Edtor google drive app)\ndon’t require reading in data?\n\n\ngithub seqADAGE https://github.com/georgiadoing/seqADAGE\n\nfork\nclone\nmake project folder within /Py/\nwe’ll start code review in a couple weeks\ngithub tutorials\n\nmaybe try the first..\n\n\ndata in google drive folder (for now)\n\nlater will use Open Science Framework: https://osf.io/\nmaybe this one but maybe a new one\ncould create accounts (union email?)\n\nMisc.\n\nmy office key and keycard",
     "crumbs": [
       "Meeting Notes",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Meeting 1</span>"
@@ -65,7 +65,7 @@
     "href": "04-Notes/labmtg2.html",
     "title": "Lab Meeting 2",
     "section": "",
-    "text": "Lab Meeting: 2\n\nJune 22, 2026",
+    "text": "Lab Meeting: 2\n\nJune 22, 2026\n\ntesting texteditor.co",
     "crumbs": [
       "Meeting Notes",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lab Meeting 2</span>"
