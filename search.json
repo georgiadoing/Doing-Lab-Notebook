@@ -70,5 +70,27 @@
       "Meeting Notes",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lab Meeting 2</span>"
     ]
+  },
+  {
+    "objectID": "04-Notes/gd_week1.html",
+    "href": "04-Notes/gd_week1.html",
+    "title": "GD Week 1",
+    "section": "",
+    "text": "GD Weekly Notes: 1",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/gd_week1.html#to-do",
+    "href": "04-Notes/gd_week1.html#to-do",
+    "title": "GD Week 1",
+    "section": "To-do",
+    "text": "To-do\n\nGet lab notebook setup\n[] Decide on repo structure\n[] Plan sampling excursion\nKey access to CAP/crochet\nSchedule lab meetings - update calendar\nGroup meeting once a week\n[] 1-1 meetings also weekly or as-needed\nGet DNA sequences into google drive\n[] Get P.a. DNA seq\n[] Implement tuner method in adage class\n[] E coli gene lists for enrichment analyses\n[] S aureus gene lists for enrichment analysis\n[] P aeruginosa gene lists for enrichment analysis",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 1</span>"
+    ]
   }
 ]
