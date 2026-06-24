@@ -14,7 +14,7 @@
     "href": "index.html#summer-research-2026",
     "title": "Doing-Lab-Notebook",
     "section": "Summer Research 2026!",
-    "text": "Summer Research 2026!\n::: :::",
+    "text": "Summer Research 2026!",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
     ]
@@ -45,7 +45,7 @@
     "href": "04-Notes/labmtg2.html",
     "title": "Lab Meeting 2",
     "section": "",
-    "text": "Lab Meeting: 2\n\nJune 24, 2026\n\nLab Announcements\n\nschedule 1-1s (Friday?)\nnext week’s sched\n\nlab meeting Monday again\nI’ll be around Monday, Tuesday and remote Wed, Thursday\nFriday off as “4th” of July\n\n\nLast week’s review\n\nhow did seminars/events go?\nlogistics working out? (keycards, housing, food, driving/parking)\nworkday hours?\n\nProject updates\n\nnote pages to add to notebook site?\ntransfer learning (Mukundan)\nshap vals (Seo)\nquestions? hurtles? sucessess? next steps?\n\nFlash JC\n\nEmma: ADAGE signature analysis, BMC Bioinformtics 2017\nMukundan: AlphaFold, Nature 2021\nSeo:",
+    "text": "Lab Meeting: 2\n\nJune 24, 2026\n\nLab Announcements\n\nschedule 1-1s (Friday?)\nnext week’s sched\n\nlab meeting Monday again\nI’ll be around Monday, Tuesday and remote Wed, Thursday\nFriday off as “4th” of July\n\n\nLast week’s review\n\nhow did seminars/events go?\nlogistics working out? (keycards, housing, food, driving/parking)\nworkday hours?\n\nProject updates\n\nnote pages to add to notebook site?\nfunction t-learning (Mukundan)\nshap vals (Seo)\nquestions? hurtles? sucessess? next steps?\n\nFlash JC\n\nEmma: ADAGE signature analysis, BMC Bioinformtics 2017\nMukundan: AlphaFold, Nature 2021\nSeo:",
     "crumbs": [
       "Meeting Notes",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lab Meeting 2</span>"
@@ -129,11 +129,22 @@
     ]
   },
   {
+    "objectID": "04-Notes/gd_week2.html#functional-learning-to-do",
+    "href": "04-Notes/gd_week2.html#functional-learning-to-do",
+    "title": "GD Week 2",
+    "section": "Functional-learning To-do",
+    "text": "Functional-learning To-do\n\nGet P.a. DNA seq\nS aureus gene lists for enrichment analysis",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 2</span>"
+    ]
+  },
+  {
     "objectID": "04-Notes/gd_week2.html#phylo-learning-to-do",
     "href": "04-Notes/gd_week2.html#phylo-learning-to-do",
     "title": "GD Week 2",
-    "section": "Phylo-learning To-do",
-    "text": "Phylo-learning To-do\n\nGet P.a. DNA seq\nS aureus gene lists for enrichment analysis\nP aeruginosa gene lists for enrichment analysis",
+    "section": "Phylo-learning To-Do",
+    "text": "Phylo-learning To-Do\n\nP aeruginosa gene lists for enrichment analysis",
     "crumbs": [
       "Weekly Notes",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 2</span>"
