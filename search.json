@@ -22,154 +22,154 @@
   {
     "objectID": "02-Main/schedule.html",
     "href": "02-Main/schedule.html",
-    "title": "Schedule",
+    "title": "Calendar",
     "section": "",
     "text": "Calendar\n(read only, edit in Google Calendar)",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Calendar</span>"
     ]
   },
   {
     "objectID": "04-Notes/labmtg1.html",
     "href": "04-Notes/labmtg1.html",
-    "title": "Lab Meeting 1",
+    "title": "Lab Meeting 6/15/26",
     "section": "",
-    "text": "Lab Meeting: 1\n\nJune 15, 2026\n\nlab meeting structure (first few weeks)\n\n10-15 mins each for project Q&A\nmaybe walk through notebooks from the previous week, if helpful\nflash journal club\n\ndaily scrum - slack\n\nhome or lab\nwhat you’ll focus on\n\nto know what Qs to expect or work together\nto avoid doing the same thing\nto get ideas from each other\n\napprox hours\n\nto synchronize if helpful\nto know when to expect Qs or As\n\n\nworking notebooks vs. notebook notebooks\n\nMedium post on good jupyter nb habits\nworking colab for now - for reproducibility\ndata stored in the same google drive folder should be reproducible across accounts..\nUnion supposed to be getting a compute cluster\nnotebook notebooks can be edited in anything\n\nI use VS code with googlde drive desktop synching files\ncould also use colab notebooks, just different ones from working/explorations notebooks\ncould also use online editor that allows md format (eg. Text Edtor google drive app)\ndon’t require reading in data?\n\n\ngithub seqADAGE https://github.com/georgiadoing/seqADAGE\n\nfork\nclone\nmake project folder within /Py/\nwe’ll start code review in a couple weeks\ngithub tutorials\n\nmaybe try the first..\n\n\ndata in google drive folder (for now)\n\nlater will use Open Science Framework: https://osf.io/\nmaybe this one but maybe a new one\ncould create accounts (union email?)\n\nMisc.\n\nmy office key and keycard",
+    "text": "Lab Meeting: Week 42\n\nJune 15, 2026\n\nlab meeting structure (first few weeks)\n\n10-15 mins each for project Q&A\nmaybe walk through notebooks from the previous week, if helpful\nflash journal club\n\ndaily scrum - slack\n\nhome or lab\nwhat you’ll focus on\n\nto know what Qs to expect or work together\nto avoid doing the same thing\nto get ideas from each other\n\napprox hours\n\nto synchronize if helpful\nto know when to expect Qs or As\n\n\nworking notebooks vs. notebook notebooks\n\nMedium post on good jupyter nb habits\nworking colab for now - for reproducibility\ndata stored in the same google drive folder should be reproducible across accounts..\nUnion supposed to be getting a compute cluster\nnotebook notebooks can be edited in anything\n\nI use VS code with googlde drive desktop synching files\ncould also use colab notebooks, just different ones from working/explorations notebooks\ncould also use online editor that allows md format (eg. Text Edtor google drive app)\ndon’t require reading in data?\n\n\ngithub seqADAGE https://github.com/georgiadoing/seqADAGE\n\nfork\nclone\nmake project folder within /Py/\nwe’ll start code review in a couple weeks\ngithub tutorials\n\nmaybe try the first..\n\n\ndata in google drive folder (for now)\n\nlater will use Open Science Framework: https://osf.io/\nmaybe this one but maybe a new one\ncould create accounts (union email?)\n\nMisc.\n\nmy office key and keycard",
     "crumbs": [
       "Meeting Notes",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Meeting 1</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Meeting 6/15/26</span>"
     ]
   },
   {
     "objectID": "04-Notes/labmtg2.html",
     "href": "04-Notes/labmtg2.html",
-    "title": "Lab Meeting 2",
+    "title": "Lab Meeting 6/24/26",
     "section": "",
-    "text": "Lab Meeting: 2\n\nJune 24, 2026\n\nLab Announcements\n\nschedule 1-1s (tomorrow? next mon/tues?)\nSeminar tomorrow 11:30, Olin 115: Kathryn Feller - Seeing and Stabbing: A mantis shrimp journey\nalso student social committee, other announcements from Matt/Undergrad Research Office?\nnext week’s sched\n\nlab meeting Monday again\nI’ll be around Monday, Tuesday and remote Wed, Thursday\nFriday off as “4th” of July\n\n\nLast week’s review\n\nhow did seminars/events go?\ndid “scrum” work/help?\nlogistics working out? (keycards, housing, food, driving/parking)\nworkday hours?\n\nProject updates\n\nnote pages to add to notebook site?\nfunction t-learning (Mukundan)\nshap vals (Seo)\nquestions? hurtles? sucessess? next steps?\n\nFlash JC\n\noverview: 5 min total\n\nTitle, jounral, publish date, author\nMost compelling finding (1 or 2 sentence(s))\nFigure (panel) that convinces you the most\nBackground needed to interpret just that figure\nOutstanding questions/concerns/implications\n\nEmma: ADAGE signature analysis, BMC Bioinformtics 2017\nMukundan: AlphaFold, Nature 2021\nSeo: https://pubmed.ncbi.nlm.nih.gov/32009158/",
+    "text": "Lab Meeting: Week 43\n\nJune 24, 2026\n\nLab Announcements\n\nschedule 1-1s (tomorrow? next mon/tues?)\nSeminar tomorrow 11:30, Olin 115: Kathryn Feller - Seeing and Stabbing: A mantis shrimp journey\nalso student social committee, other announcements from Matt/Undergrad Research Office?\nnext week’s sched\n\nlab meeting Monday again\nI’ll be around Monday, Tuesday and remote Wed, Thursday\nFriday off as “4th” of July\n\n\nLast week’s review\n\nhow did seminars/events go?\ndid “scrum” work/help?\nlogistics working out? (keycards, housing, food, driving/parking)\nworkday hours?\n\nProject updates\n\nnote pages to add to notebook site?\nfunction t-learning (Mukundan)\nshap vals (Seo)\nquestions? hurtles? sucessess? next steps?\n\nFlash JC\n\noverview: 5 min total\n\nTitle, jounral, publish date, author\nMost compelling finding (1 or 2 sentence(s))\nFigure (panel) that convinces you the most\nBackground needed to interpret just that figure\nOutstanding questions/concerns/implications\n\nEmma: ADAGE signature analysis, BMC Bioinformtics 2017\nMukundan: AlphaFold, Nature 2021\nSeo: https://pubmed.ncbi.nlm.nih.gov/32009158/",
     "crumbs": [
       "Meeting Notes",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lab Meeting 2</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lab Meeting 6/24/26</span>"
     ]
   },
   {
     "objectID": "04-Notes/gd_week1.html",
     "href": "04-Notes/gd_week1.html",
-    "title": "GD Week 1",
+    "title": "GD Week 42",
     "section": "",
     "text": "GD Weekly Notes: 1",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 1</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 42</span>"
     ]
   },
   {
     "objectID": "04-Notes/gd_week1.html#sharedoverall-to-do",
     "href": "04-Notes/gd_week1.html#sharedoverall-to-do",
-    "title": "GD Week 1",
+    "title": "GD Week 42",
     "section": "Shared/Overall To-do",
     "text": "Shared/Overall To-do\n\nImplement tuner method in adage class\nE coli gene lists for enrichment analyses\nGet lab notebook setup\nDecide on repo structure\nPlan sampling excursion\nKey access to CAP/crochet\nSchedule lab meetings - update calendar\nGroup meeting once a week\n1-1 meetings also weekly or as-needed",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 1</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 42</span>"
     ]
   },
   {
     "objectID": "04-Notes/gd_week1.html#phylo-learning-to-do",
     "href": "04-Notes/gd_week1.html#phylo-learning-to-do",
-    "title": "GD Week 1",
+    "title": "GD Week 42",
     "section": "Phylo-learning To-do",
     "text": "Phylo-learning To-do\n\nGet DNA sequences into google drive\nGet P.a. DNA seq\nS aureus gene lists for enrichment analysis\nP aeruginosa gene lists for enrichment analysis",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 1</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 42</span>"
     ]
   },
   {
     "objectID": "04-Notes/gd_week1.html#bio-xai-to-do",
     "href": "04-Notes/gd_week1.html#bio-xai-to-do",
-    "title": "GD Week 1",
+    "title": "GD Week 42",
     "section": "Bio-xAI To-do",
     "text": "Bio-xAI To-do\n\nmodel to test SHAP tutorial on\ncolaboration with Josh/Ara",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 1</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GD Week 42</span>"
     ]
   },
   {
     "objectID": "04-Notes/gd_week2.html",
     "href": "04-Notes/gd_week2.html",
-    "title": "GD Week 2",
+    "title": "GD Week 43",
     "section": "",
-    "text": "GD Weekly Notes: 2",
+    "text": "GD Weekly Notes: Week 2 of Summer 26",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 2</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
     "objectID": "04-Notes/gd_week2.html#focusreading",
     "href": "04-Notes/gd_week2.html#focusreading",
-    "title": "GD Week 2",
+    "title": "GD Week 43",
     "section": "Focus/Reading",
     "text": "Focus/Reading\n\nJoan Didion, On keeping a notebook, Why I write\nconnect to scientific notebooks…?… still working in it",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 2</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
     "objectID": "04-Notes/gd_week2.html#still-in-bookeeping-mode-to-do-not-yet-to-research-notes-..",
     "href": "04-Notes/gd_week2.html#still-in-bookeeping-mode-to-do-not-yet-to-research-notes-..",
-    "title": "GD Week 2",
+    "title": "GD Week 43",
     "section": "Still in bookeeping mode / To-do / not yet to research notes ..",
     "text": "Still in bookeeping mode / To-do / not yet to research notes ..\n\nConnect with Julia Oh (Duke) over Tn-seq project/data collab\nConnect with Josh Chuah (BME) over SHAP collab\nConnect with Emily and Memo (NEB) over E coli collab\nConnect with Carol Weiss (Psychology) over data analytics collab",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 2</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
     "objectID": "04-Notes/gd_week2.html#sharedoverall-to-do",
     "href": "04-Notes/gd_week2.html#sharedoverall-to-do",
-    "title": "GD Week 2",
+    "title": "GD Week 43",
     "section": "Shared/Overall To-do",
     "text": "Shared/Overall To-do\n\nImplement tuner method in adage class\nE coli gene lists for enrichment analyses\nDecide on repo structure\nPlan sampling excursion",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 2</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
     "objectID": "04-Notes/gd_week2.html#functional-learning-to-do",
     "href": "04-Notes/gd_week2.html#functional-learning-to-do",
-    "title": "GD Week 2",
+    "title": "GD Week 43",
     "section": "Functional-learning To-do",
     "text": "Functional-learning To-do\n\nGet P.a. DNA seq\nS aureus gene lists for enrichment analysis",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 2</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
     "objectID": "04-Notes/gd_week2.html#phylo-learning-to-do",
     "href": "04-Notes/gd_week2.html#phylo-learning-to-do",
-    "title": "GD Week 2",
+    "title": "GD Week 43",
     "section": "Phylo-learning To-Do",
     "text": "Phylo-learning To-Do\n\nP aeruginosa gene lists for enrichment analysis",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 2</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
     "objectID": "04-Notes/gd_week2.html#bio-xai-to-do",
     "href": "04-Notes/gd_week2.html#bio-xai-to-do",
-    "title": "GD Week 2",
+    "title": "GD Week 43",
     "section": "Bio-xAI To-do",
     "text": "Bio-xAI To-do\n\nmodel to test SHAP tutorial on\ncolaboration with Josh/Ara",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 2</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
