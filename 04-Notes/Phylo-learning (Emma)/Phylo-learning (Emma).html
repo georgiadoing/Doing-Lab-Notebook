@@ -324,10 +324,81 @@ window.Quarto = {
 <section id="methods" class="level2">
 <h2 class="anchored" data-anchor-id="methods">Methods</h2>
 <p>Data preparation (Fig 1) * Raw microarray data analyzed with RMA (Robust Multi-array Average) * background correction (removes noise), quantiale normalization (align distributions to compendium), probe summarization (ask Georgia???) * assigned expression of missing genes using k-nearest neighbor based on similarity to compendium * RNA-seq expression values normalized to compendium via TDM (Test DAta Management) * generate synthetic data or scramble real data to protect privacy while preserving statistical properties needed for model training * track changes in datasets so developers can reproduce results * pull manageable, representative portions of large datasets for faster, cheaper model testing * zero-one normalization * compendium as reference * measurements outside range observed in reference are set to 0 or 1 according to whether they’re below or above range</p>
-<p>Active signature detection * signature’s activity reflects how active that signature is in each sample * average expression values of signature genes weighted according to their weight in the signature * Heat map in Fig 1</p>
-<p>Signature interpretation * only need to examine signatures affected by experiment, not ALL signatures * signatures are NOT annotated to specific bio process * can infer bio processes by looking at gene composition if some gene have been prviously characterized and share bio theme * can also link existing knowledge (ie KEGG pathways and GO terms) to signatures through enrichment test * GO terms: standardized, controlled vocabulary phrases to describe gene functions and products (proteins or non-coding RNAs) across all species</p>
-<p>Results (Fig 4) * example dataset (wildtype vs <span class="math inline">\(\Delta\)</span>Anr cells) * chart a * volcano plot of activity differences and significance * red-highlighted signature lie on top 10 layers of Pareto fronts * pareto fronts: optimal solutions * top layer (layer 1) = best solution (improving one objective inherently worsens another) * other layers are suboptimal solutions (improved upon by previous layers) * red dotted line indicates 0.05 significance cutoff * chart b * heatmap of 36 signatures (top 10 pareto layers) and their activities in each sample * yellow = high activity, blue = low activity * signatures have more overlapping genes when model is trained with more noise * chart c * heatmap color depicts how strongly the signature in the row is differentially activated when the genes it shares with the signature in the column have been depleted * diagonal shows activation significance of a signature without overlapping gene removal (see chart d) * X = non-significant p-values</p>
-<p>Fig. 5 * 19 differentially active signatures * Sets of genes that have transcriptional relationships * Clusters can reveal regulons (multiple genes across chromosome that are regulated as a unit by the same transcription factor) * Linked signatures to KEGG pathways (suggests the biological basis of signatures) * 12/19 signatures were significantly enriched for one of more of 14 KEGG pathways * Tested whether these KEGG pathways were differentially active between wild-type and delta-anr mutants * Only used shared genes and their associated pathways * Genes in 7/14 pathways were significantly activated * Also performed GSEA * 5 pathways were detected by GSEA and ADAGE * Have been shown to be regulated by Anr</p>
+<p>Active signature detection</p>
+<ul>
+<li>signature’s activity reflects how active that signature is in each sample
+<ul>
+<li>average expression values of signature genes weighted according to their weight in the signature</li>
+<li>Heat map in Fig 1</li>
+</ul></li>
+</ul>
+<p>Signature interpretation</p>
+<ul>
+<li>only need to examine signatures affected by experiment, not ALL signatures</li>
+<li>signatures are NOT annotated to specific bio process
+<ul>
+<li>can infer bio processes by looking at gene composition if some gene have been prviously characterized and share bio theme</li>
+<li>can also link existing knowledge (ie KEGG pathways and GO terms) to signatures through enrichment test
+<ul>
+<li>GO terms: standardized, controlled vocabulary phrases to describe gene functions and products (proteins or non-coding RNAs) across all species</li>
+</ul></li>
+</ul></li>
+</ul>
+<p>Results (Fig 4)</p>
+<ul>
+<li>example dataset (wildtype vs <span class="math inline">\(\Delta\)</span>Anr cells)</li>
+<li>chart a
+<ul>
+<li>volcano plot of activity differences and significance</li>
+<li>red-highlighted signature lie on top 10 layers of Pareto fronts
+<ul>
+<li>pareto fronts: optimal solutions</li>
+<li>top layer (layer 1) = best solution (improving one objective inherently worsens another)</li>
+<li>other layers are suboptimal solutions (improved upon by previous layers)</li>
+</ul></li>
+<li>red dotted line indicates 0.05 significance cutoff</li>
+</ul></li>
+<li>chart b
+<ul>
+<li>heatmap of 36 signatures (top 10 pareto layers) and their activities in each sample
+<ul>
+<li>yellow = high activity, blue = low activity</li>
+</ul></li>
+<li>signatures have more overlapping genes when model is trained with more noise</li>
+</ul></li>
+<li>chart c
+<ul>
+<li>heatmap color depicts how strongly the signature in the row is differentially activated when the genes it shares with the signature in the column have been depleted
+<ul>
+<li>diagonal shows activation significance of a signature without overlapping gene removal (see chart d)</li>
+</ul></li>
+<li>X = non-significant p-values</li>
+</ul></li>
+</ul>
+<p>Fig. 5</p>
+<ul>
+<li>19 differentially active signatures</li>
+<li>Sets of genes that have transcriptional relationships
+<ul>
+<li>Clusters can reveal regulons (multiple genes across chromosome that are regulated as a unit by the same transcription factor)</li>
+</ul></li>
+<li>Linked signatures to KEGG pathways (suggests the biological basis of signatures)
+<ul>
+<li>12/19 signatures were significantly enriched for one of more of 14 KEGG pathways</li>
+</ul></li>
+<li>Tested whether these KEGG pathways were differentially active between wild-type and delta-anr mutants
+<ul>
+<li>Only used shared genes and their associated pathways</li>
+<li>Genes in 7/14 pathways were significantly activated</li>
+</ul></li>
+<li>Also performed GSEA
+<ul>
+<li>5 pathways were detected by GSEA and ADAGE
+<ul>
+<li>Have been shown to be regulated by Anr</li>
+</ul></li>
+</ul></li>
+</ul>
 </section>
 </section>
 <section id="proposal-notes" class="level1">
