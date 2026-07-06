@@ -63,6 +63,17 @@
     ]
   },
   {
+    "objectID": "04-Notes/labmtg4.html",
+    "href": "04-Notes/labmtg4.html",
+    "title": "Lab Meeting 6/29/26",
+    "section": "",
+    "text": "Lab Meeting: Week 45\n\nJuly 6, 2026\n\nLab Announcements\n\nSeminar tomorrow 11:30, Olin 115: History and grad school..?\n\nthink ahead to flash-talks…\nfree lunch!\n\n\nProject updates\n\nSeo\nEmma\nMukundan\nquestions? hurtles? sucessess? next steps?\n\nFlash JC\n\nslides or notebooks (optional)?\noverview: 5 min total\n\nTitle, jounral, publish date, author\nMost compelling finding (1 or 2 sentence(s))\nFigure (panel) that convinces you the most\nBackground needed to interpret just that figure\nOutstanding questions/concerns/implications\n\nEmma: ADAGE signature analysis, BMC Bioinformtics 2017\nMukundan: AlphaFold, Nature 2021\nSeo: Ancestry of “Old Tom”, Journal of Heredity 2023",
+    "crumbs": [
+      "Meeting Notes",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Lab Meeting 6/29/26</span>"
+    ]
+  },
+  {
     "objectID": "04-Notes/gd_week1.html",
     "href": "04-Notes/gd_week1.html",
     "title": "GD Week 42",
@@ -70,7 +81,7 @@
     "text": "GD Weekly Notes: Week 1 of Summer 26",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 42</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>GD Week 42</span>"
     ]
   },
   {
@@ -81,7 +92,7 @@
     "text": "Shared/Overall To-do\n\nImplement tuner method in adage class\nE coli gene lists for enrichment analyses\nGet lab notebook setup\nDecide on repo structure\nPlan sampling excursion\nKey access to CAP/crochet\nSchedule lab meetings - update calendar\nGroup meeting once a week\n1-1 meetings also weekly or as-needed",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 42</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>GD Week 42</span>"
     ]
   },
   {
@@ -92,7 +103,7 @@
     "text": "Phylo-learning To-do\n\nGet DNA sequences into google drive\nGet P.a. DNA seq\nS aureus gene lists for enrichment analysis\nP aeruginosa gene lists for enrichment analysis",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 42</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>GD Week 42</span>"
     ]
   },
   {
@@ -103,7 +114,7 @@
     "text": "Bio-xAI To-do\n\nmodel to test SHAP tutorial on\ncolaboration with Josh/Ara",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>GD Week 42</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>GD Week 42</span>"
     ]
   },
   {
@@ -114,7 +125,7 @@
     "text": "GD Weekly Notes: Week 2 of Summer 26",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>GD Week 43</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
@@ -125,7 +136,7 @@
     "text": "Focus/Reading\n\nJoan Didion, On keeping a notebook, Why I write\nconnect to scientific notebooks…?… still working in it",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>GD Week 43</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
@@ -136,7 +147,7 @@
     "text": "Still in bookeeping mode / To-do / not yet to research notes ..\n\nConnect with Julia Oh (Duke) over Tn-seq project/data collab\nConnect with Josh Chuah (BME) over SHAP collab\nConnect with Emily and Memo (NEB) over E coli collab\nConnect with Carol Weiss (Psychology) over data analytics collab",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>GD Week 43</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
@@ -147,7 +158,7 @@
     "text": "Shared/Overall To-do\n\nImplement tuner method in adage class\nE coli gene lists for enrichment analyses\nDecide on repo structure\nPlan sampling excursion",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>GD Week 43</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
@@ -158,7 +169,7 @@
     "text": "Functional-learning To-do\n\nGet P.a. DNA seq\nS aureus gene lists for enrichment analysis",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>GD Week 43</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
@@ -169,7 +180,7 @@
     "text": "Phylo-learning To-Do\n\nP aeruginosa gene lists for enrichment analysis",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>GD Week 43</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
@@ -180,161 +191,84 @@
     "text": "Bio-xAI To-do\n\nmodel to test SHAP tutorial on\ncolaboration with Josh/Ara",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>GD Week 43</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>GD Week 43</span>"
     ]
   },
   {
-    "objectID": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html",
-    "href": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html",
-    "title": "Working Notebook",
+    "objectID": "04-Notes/WeeklyNotes/gd_week_07_06_26.html",
+    "href": "04-Notes/WeeklyNotes/gd_week_07_06_26.html",
+    "title": "GD Week 45",
     "section": "",
-    "text": "Week 1",
+    "text": "GD Weekly Notes: Week 3-4 of Summer 26",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Working Notebook</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>GD Week 45</span>"
     ]
   },
   {
-    "objectID": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#pseudomonas-aeruginosa",
-    "href": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#pseudomonas-aeruginosa",
-    "title": "Working Notebook",
-    "section": "Pseudomonas aeruginosa",
-    "text": "Pseudomonas aeruginosa\n\nwildtype and \\(\\Delta\\)anr mutant cells\n\nAnr is a transctiptional regulator responsible for the aerobic to anaerobic transition\n\n\\(\\Delta\\)Anr mutants cannot switch from aerobic to anaerobic respiration (loss of anaerobic growth)\ncan’t form biofilms (usually low in oxygen)\n\n\ngrown on cystic fibrosis genotype bronchial epithelial cells\n\nmodels cystic fibrosis airway infections\n\nhas sufficient public gene expression data to construct model\n\nrapidly growing pathway annotations allow them to validate bio relevance of gene signatures learned by ADAGE\n\nalso allows demonstration of ADAGE’s ability to identify unannotated bio processes",
+    "objectID": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#focusreading",
+    "href": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#focusreading",
+    "title": "GD Week 45",
+    "section": "Focus/Reading",
+    "text": "Focus/Reading\n\nout of wifi since last Thurs!",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Working Notebook</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>GD Week 45</span>"
     ]
   },
   {
-    "objectID": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#adage-signature-analysis-pipeline",
-    "href": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#adage-signature-analysis-pipeline",
-    "title": "Working Notebook",
-    "section": "ADAGE signature analysis pipeline",
-    "text": "ADAGE signature analysis pipeline\n\nID one or more signatures that respond to experimental treatment (signatures represent bio processes that may be affected by treatment)\n\nsimilar to traditional gene set analysis but replaces human-annotated gene sets with ADAGE-learned signatures\n\ndeveloped R package and web server",
+    "objectID": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#collaborations-to-boot-up",
+    "href": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#collaborations-to-boot-up",
+    "title": "GD Week 45",
+    "section": "Collaborations to boot up",
+    "text": "Collaborations to boot up\n\nConnect with Julia Oh (Duke) over Tn-seq project/data collab\nConnect with Josh Chuah (BME) over SHAP collab\nConnect with Emily and Memo (NEB) over E coli collab\nConnect with Carol Weiss (Psychology) over data analytics collab",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Working Notebook</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>GD Week 45</span>"
     ]
   },
   {
-    "objectID": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#methods",
-    "href": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#methods",
-    "title": "Working Notebook",
-    "section": "Methods",
-    "text": "Methods\nData preparation (Fig 1) * Raw microarray data analyzed with RMA (Robust Multi-array Average) * background correction (removes noise), quantiale normalization (align distributions to compendium), probe summarization (ask Georgia???) * assigned expression of missing genes using k-nearest neighbor based on similarity to compendium * RNA-seq expression values normalized to compendium via TDM (Test DAta Management) * generate synthetic data or scramble real data to protect privacy while preserving statistical properties needed for model training * track changes in datasets so developers can reproduce results * pull manageable, representative portions of large datasets for faster, cheaper model testing * zero-one normalization * compendium as reference * measurements outside range observed in reference are set to 0 or 1 according to whether they’re below or above range\nActive signature detection\n\nsignature’s activity reflects how active that signature is in each sample\n\naverage expression values of signature genes weighted according to their weight in the signature\nHeat map in Fig 1\n\n\nSignature interpretation\n\nonly need to examine signatures affected by experiment, not ALL signatures\nsignatures are NOT annotated to specific bio process\n\ncan infer bio processes by looking at gene composition if some gene have been prviously characterized and share bio theme\ncan also link existing knowledge (ie KEGG pathways and GO terms) to signatures through enrichment test\n\nGO terms: standardized, controlled vocabulary phrases to describe gene functions and products (proteins or non-coding RNAs) across all species\n\n\n\nResults (Fig 4)\n\nexample dataset (wildtype vs \\(\\Delta\\)Anr cells)\nchart a\n\nvolcano plot of activity differences and significance\nred-highlighted signature lie on top 10 layers of Pareto fronts\n\npareto fronts: optimal solutions\ntop layer (layer 1) = best solution (improving one objective inherently worsens another)\nother layers are suboptimal solutions (improved upon by previous layers)\n\nred dotted line indicates 0.05 significance cutoff\n\nchart b\n\nheatmap of 36 signatures (top 10 pareto layers) and their activities in each sample\n\nyellow = high activity, blue = low activity\n\nsignatures have more overlapping genes when model is trained with more noise\n\nchart c\n\nheatmap color depicts how strongly the signature in the row is differentially activated when the genes it shares with the signature in the column have been depleted\n\ndiagonal shows activation significance of a signature without overlapping gene removal (see chart d)\n\nX = non-significant p-values\n\n\nFig. 5\n\n19 differentially active signatures\nSets of genes that have transcriptional relationships\n\nClusters can reveal regulons (multiple genes across chromosome that are regulated as a unit by the same transcription factor)\n\nLinked signatures to KEGG pathways (suggests the biological basis of signatures)\n\n12/19 signatures were significantly enriched for one of more of 14 KEGG pathways\n\nTested whether these KEGG pathways were differentially active between wild-type and delta-anr mutants\n\nOnly used shared genes and their associated pathways\nGenes in 7/14 pathways were significantly activated\n\nAlso performed GSEA\n\n5 pathways were detected by GSEA and ADAGE\n\nHave been shown to be regulated by Anr",
+    "objectID": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#sharedoverall-to-do",
+    "href": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#sharedoverall-to-do",
+    "title": "GD Week 45",
+    "section": "Shared/Overall To-do",
+    "text": "Shared/Overall To-do\n\nOrganize sampling trip\nOrder reagent(s)\nImplement tuner method in adage class\nE. coli gene lists for enrichment analyses\nDecide on repo structure\nPlan sampling excursion",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Working Notebook</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>GD Week 45</span>"
     ]
   },
   {
-    "objectID": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#section",
-    "href": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#section",
-    "title": "Working Notebook",
-    "section": "6/25/2026",
-    "text": "6/25/2026",
+    "objectID": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#functional-learning-to-do",
+    "href": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#functional-learning-to-do",
+    "title": "GD Week 45",
+    "section": "Functional-learning To-do",
+    "text": "Functional-learning To-do\n\nGet P.a. DNA seq\nS. aureus gene lists for enrichment analysis",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Working Notebook</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>GD Week 45</span>"
     ]
   },
   {
-    "objectID": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#main-points",
-    "href": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#main-points",
-    "title": "Working Notebook",
-    "section": "Main points",
-    "text": "Main points\n\nQUESTION: Does strain-level transfer learning yield results that are more concordant with biological databases, such as EcoCyc or pseudomonas.com, than species-level and genus-level transfer learning?\n\nGeorgia’s done some species-level research\n\nE.coli and P.aeruginosa\ncan’t use gene expression data of entire species because of strain variation\nEPEC (enteropathogenic E.coli) and EHEC (enterohemorrhagic E.coli)\n\nincreased virulence, antibiotic-resistance, significant causes of mortality\n\nif findings support hypothesis, they may suggest we could bridge the gap between lab-studied and disease-causing strains of E.coli\n\nfuture studies could explore extent to which ML can be transferred (ie lab mice to humans) # Plan\n\n\n\ndata setup / filtering\ntransfer &gt; 2.1 pre-training &gt; 2.2 fine tuning &gt; 2.3 assessment\noutput analysis &gt; 3.1 look for enrichment between output and known pathways on pseudomonas.com and KEGG pathways &gt;&gt; 3.1.1 gene-pathway mapping used to evaluate biological relevance of gene signatures &gt; 3.2 compare outputs across different pairs of pre-training and fine-tuning datasets to determine workflow",
+    "objectID": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#phylo-learning-to-do",
+    "href": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#phylo-learning-to-do",
+    "title": "GD Week 45",
+    "section": "Phylo-learning To-Do",
+    "text": "Phylo-learning To-Do\n\nP. aeruginosa gene lists for enrichment analysis",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Working Notebook</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>GD Week 45</span>"
     ]
   },
   {
-    "objectID": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#to-do-list",
-    "href": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#to-do-list",
-    "title": "Working Notebook",
-    "section": "To Do List",
-    "text": "To Do List\n\nmake sure we have all data needed\n\nis E.coli strain data in the shared drive?\n\nmentioned EPEC and EHEC strains in proposal – do we have data for these?\n\ndo we have the P.aeruginosa data?\n\nfigure out filtering\n\nread papers on DNA seq filtering?\ngo through data and see what labels are there, then decide\n\ndo all files in data folder have the same labels? If not, keep shared labels and delete any that aren’t shared?\n\nfilter all data before starting with ML model\n\nfigure out code – what changes do I need to make?\n\nlook through it and make sure you understand what’s happening / how it works\nbrainstorm what you need to change / add\n\nexplore pseudomonas.com and KEGG pathways\n\nread papers and stuff about this?\nget a feel for it before jumping right in with experiment output\nmaybe start with the Tan et al. (2017) paper and try to follow what they did?",
+    "objectID": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#bio-xai-to-do",
+    "href": "04-Notes/WeeklyNotes/gd_week_07_06_26.html#bio-xai-to-do",
+    "title": "GD Week 45",
+    "section": "Bio-xAI To-do",
+    "text": "Bio-xAI To-do\n\nmodel to test SHAP tutorial on\ncolaboration with Josh/Ara",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Working Notebook</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#dna-seq-filtering",
-    "href": "04-Notes/Phylo-learning (Emma)/Phylo-learning (Emma).html#dna-seq-filtering",
-    "title": "Working Notebook",
-    "section": "DNA Seq Filtering",
-    "text": "DNA Seq Filtering\n\nWhat is in data folder?\n\nwhich file am I using to start (and then filter from that file)?\nwhat are rows and columns in the files?\n\nTrimming and filtering data (LinkedIn)\n\nshort reads - reads below a certain length theshold\nduplicate reads - redundant sequences\nhigh-N content reads - reads with too many ambiguous bases(“N”)\nthere’s bioinformatics tools to help with filtering\n\ncan we use them or are we filtering manually?",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Working Notebook</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/Functional Learning (Mukundan)/Mukundan_Lab_Notebook.html",
-    "href": "04-Notes/Functional Learning (Mukundan)/Mukundan_Lab_Notebook.html",
-    "title": "Lab Notebook - Functional Transfer Learning",
-    "section": "",
-    "text": "Mukundan Thanigaivelan\nThis is my lab notebook for my research in Summer 2026. This research concerns evaluating different transfer functions for transfer learning, including:\nUsing these transfer functions, I want to see which one produces the most biologically relevant results when fine-tuning Denoising Autoencoders (DAEs) trained on E. coli RNA-Seq data.",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Lab Notebook - Functional Transfer Learning</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/Functional Learning (Mukundan)/Mukundan_Lab_Notebook.html#project-updates---weeks-1-2",
-    "href": "04-Notes/Functional Learning (Mukundan)/Mukundan_Lab_Notebook.html#project-updates---weeks-1-2",
-    "title": "Lab Notebook - Functional Transfer Learning",
-    "section": "Project Updates - Weeks 1-2",
-    "text": "Project Updates - Weeks 1-2\nBig Focus: Filtering\nWeek 1:\n\nLooked at MG1655 and MG1655+ RNA-Seq data\nWant to filter out a subset of genes and samples so that we don’t add extraneous noise to the DAE\nFirst looked at gene/sample expression mean vs. variance, and went with hard cutoffs to eliminate low mean/low variance genes/samples\n\nWeek 2:\n\nInsight from Georgia → Go with vibes, not cutoffs\nLooked at same plots and looked for outlier points/tails to eliminate\nLed to filtering out 3% of genes and 7% of samples\nResult → more uniform genes and samples in terms of expression distribution\nWent back to original RNA-Seq data (raw counts), pulled these genes/samples, and re-normalized to 0/1\nTheoretically the data is ready for the DAE!",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Lab Notebook - Functional Transfer Learning</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/Functional Learning (Mukundan)/Mukundan_Lab_Notebook.html#paper-1---alphafold",
-    "href": "04-Notes/Functional Learning (Mukundan)/Mukundan_Lab_Notebook.html#paper-1---alphafold",
-    "title": "Lab Notebook - Functional Transfer Learning",
-    "section": "Paper #1 - AlphaFold",
-    "text": "Paper #1 - AlphaFold\nTitle: Highly accurate protein structure prediction with AlphaFold\nJournal: Nature\nPublished Date: 07/15/2021\nAuthors: John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli1 & Demis Hassabis\nMost Compelling Find: Given an amino acid sequence, AlphaFold can very accurately predict the structure of the protein that it folds into (this is known to be a very difficult task to accomplish in general).\nMost Convincing Panel of AlphaFold’s Ability: \n\nQuestions:\n\nHow exactly will/is AlphaFold be used?\nAnd are there concerns about using AI (which is not always correct) in biological advancement?\n\nI do think there are big implications though!",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Lab Notebook - Functional Transfer Learning</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/WeeklyNotes/2026_06_25_tn-seq_pipeline_notes.html",
-    "href": "04-Notes/WeeklyNotes/2026_06_25_tn-seq_pipeline_notes.html",
-    "title": "GD Week 44",
-    "section": "",
-    "text": "Processing Tn-seq Data\nI am continuing to process the third round of Tn-seq data for the Oh lab. This is the first run since Matt left so I am using his notes but have more steps to implement than previsoulsy. This is also a larger run with more strains and using a different plasmid, so we’ll hit all the steps.\nThe pipeline follows as:",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>GD Week 44</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/WeeklyNotes/2026_06_25_tn-seq_pipeline_notes.html#previously",
-    "href": "04-Notes/WeeklyNotes/2026_06_25_tn-seq_pipeline_notes.html#previously",
-    "title": "GD Week 44",
-    "section": "Previously",
-    "text": "Previously\n\nusing [Matt’s benchling notebook(https://benchling.com/s/etr-OjVpptIumXPUk6QrTx0S/edit?m=slm-lvLKsJ8OYNZeEpnM6j1C)] as a reference\nI had previously “prepared reads” but converting from bcl to fastq\n\nused bcl2fastq module on DCC\ncopied from script in Matt’s folder\nused Illumina adapters: https://support-docs.illumina.com/SHARE/AdapterSequences/Content/Illumina-UDIndexes.htm\nsample sheet from Aaron, reformatted: founders2_sample_sheet3.csv\nshared read counts Sequencing Map 4.14.26_reads_edit.xls on slack\n\nI had the bash scripts working from previous experiments",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>GD Week 44</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/WeeklyNotes/2026_06_25_tn-seq_pipeline_notes.html#this-week",
-    "href": "04-Notes/WeeklyNotes/2026_06_25_tn-seq_pipeline_notes.html#this-week",
-    "title": "GD Week 44",
-    "section": "This Week",
-    "text": "This Week\n\nprepare the genomes and plasmids\nprocess the reads\nsave data and reference sequences in permanant/accessible place\n\ndata so far\nfirst run: ? FOUNDERS: /datacommons/ohlab/data_mWGS/Elwell_11300_251113B9/ next founders: /hpc/group/ohlab/yk279/Founders1.zip ( 260422_MN00462_0188_A00HCHGVM )",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>GD Week 44</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>GD Week 45</span>"
     ]
   },
   {
@@ -345,7 +279,7 @@
     "text": "From messy exploration to a record that still makes sense months later\n\n\n\n\n\n6 Jupyter Notebook Habits That Make Your Work Easy to Return To\nFrom messy exploration to a record that still makes sense months later\nPublished Mar 07, 2026 · Updated Apr 20, 2026 · Free: No\n\nPDF version\n\nHere is a situation working in Jupyter Notebooks that many people will recognise.\nA colleague messages you asking how a particular calculation was carried out in a study that was worked on six months ago. You know the answer is somewhere in your jupyter notebook.\nYou open it, confident the logic and information is in there.\nForty minutes later, you are still not sure.\nThe code ran. The outputs exist. But the reasoning behind the key decisions is gone. Which Clay Volume cutoff did you use and why? Was normalisation applied to the gamma ray data before or after the formation tops were picked? There is a commented-out cell that might be relevant, or might be an abandoned experiment. You can’t tell.\nThen you start to notice that a cell further down the page has errored as a variable is not present. After much head scratching you find out it was calculated 5 cells further down.\nThis is not a messy notebook problem. Messy exploration is normal and expected. This is a documentation problem: the analysis produced a result, but it did not produce a record.\nIn subsurface work, that distinction carries real weight. Notebooks often sit at the base of interpretations that can feed future decisions, reserve estimates, and machine learning model training pipelines. When someone asks why a decision was made, “I think that was the approach” is not an audit trail. It is a gap.\nThese six habits don’t slow down exploration. They ensure that what comes out of it is traceable, rerunnable, and readable by someone who was not in the room when it was written, including you, six months later.\nThis article does have a geoscience twist to it, but these habits can be applied to any data science project.\n\n1. Treat the Notebook as a Decision Log, Not a Script\nThis is the shift that changes everything else.\nMost notebooks are written as scripts: a sequence of code cells that produces an output. The problem with a script framing is that it records what happened, but not why. Code tells you that Gamma Ray values below zero were removed. It doesn’t tell you whether that was a deliberate interpretation choice, a quality control step, or a temporary workaround that was never revisited.\nA notebook written as a decision log treats every significant step as something that needs to be justified, not just executed.\nThe practical difference is in how you use markdown cells. Not as labels for the code below them, but as the reasoning that precedes it.\nCompare these two approaches to the same step.\nLabel (not enough):\n## GR Cleaning\nRemoving negative values and normalising.\nDecision log (what you actually need):\n## GR Curve: Cleaning Decisions\nNegative GR values present in 3 wells (n=14 samples total). Spike pattern\nand depth distribution consistent with tool noise rather than formation signal.\nExcluded prior to any formation-level analysis.\n\nNormalisation: min-max applied rather than z-score. Reason: preserves the\nshape of the GR distribution across formations, which matters for the\ncross-plot in section 4. Z-score would compress the tails where the\nlithological contrast is most visible.\nThe code that follows executes the decision. The markdown records it.\nWhen you return to this notebook in four months, you don’t need to reverse-engineer the reasoning from the code. It is written down. When a colleague picks it up, they know not just what was done but why, and under what assumptions.\nA useful test: if you cannot write a defensible markdown cell for a step, that is a signal the decision itself needs more thought before you commit it to code.\n\n\n2. Write the Header Before You Write Any Code\nAt the start of any notebook, you can save yourself time later on by spending two minutes writing a header cell before writing a single line of code.\n# Project: Volve Field -- Petrophysical QC\n## Notebook: 03_formation_analysis -- Curve Completeness Assessment\n\n**Purpose:**\nAssess GR and RHOB curve completeness by formation across the Volve dataset.\nOutput used to determine viable curve inputs for the lithology classification model.\n\n**Input:**\n`data/raw/volve_well_logs.csv`\nSource: Volve open dataset, DISKOS export, retrieved 2026-01-15.\nWells in scope: 15/9-F-1, 15/9-F-4, 15/9-F-11 (producers only).\n\n**Assumptions and exclusions:**\nIntervals above casing shoe depth excluded (varies by well, see formation tops file).\nGR values &lt; 0 treated as noise and removed prior to analysis.\nBrent Group subdivisions collapsed to group level due to sparse tops coverage.\n\n**Output:**\n`data/processed/curve_completeness_by_formation.csv`\n`outputs/figures/completeness_heatmap.png`\n\n**Last updated:** 2026-02-26 | **Status:** Complete\nThe two sections that matter most in geoscience or data science work are data provenance and assumptions.\nData provenance answers: where did this data come from, when was it obtained, and exactly which subset are you working with. A file path tells you nothing about whether the data came from a live database pull last week or a spreadsheet that was emailed across six months ago. Source and scope belong in the header because they are invisible everywhere else.\nAdditionally, a file path that resolves on your machine and nowhere else is not provenance. It is a dead end. If the data lives anywhere other than a shared location the next person is guaranteed to have access to, the header needs to explain how to get it:\n**Input:**\n`data/raw/volve_well_logs.csv`\nSource: Volve open dataset, DISKOS export, retrieved 2026-01-15.\n\nWells in scope: 15/9-F-1, 15/9-F-4, 15/9-F-11 (producers only).\n\nAccess: Shared project drive at \\\\server\\projects\\volve_qc\\data\\raw\\\nIf unavailable, contact data management or re-export from DISKOS using\nthe query parameters documented in `docs/data_export_notes.md`.\nThe fields that matter when access is not guaranteed: where the file physically lives or can be retrieved from, who to contact if access is unavailable, how it was originally obtained so it can be re-obtained the same way, and any query parameters or export settings used. A re-export with different settings is not the same dataset, and that distinction will not be obvious to the person picking up the notebook six months later.\nAssumptions and exclusions are where the interpretive choices live. Collapsing Brent Group subdivisions is a meaningful geological decision. Excluding above-casing intervals is a meaningful QC decision. Both are defensible. Neither shows up in the code without a comment, and comments are the first thing to disappear during a cleanup. The header cell is permanent.\nA simple status message can inform you and other notebook users whether this is a complete notebook or if it is still a work in progress.\n\n\n3. Separate Exploration From the Record\n\nExploration and documentation are not the same activity, and trying to do both in one notebook produces something that serves neither purpose well.\nExploration is nonlinear by nature. You are testing approaches, hitting dead ends, trying variations you will ultimately discard. That process should be unconstrained. A notebook full of experimental cells, abandoned branches, and intermediate print statements is not a problem. It’s how analysis actually happens.\nThe problem comes when that exploratory notebook is also treated as the record. It looks like an analysis. It produces outputs. But the path through it is not a story. It is a session log.\nThe habit is to maintain two notebooks per project.\nThe working notebook is where exploration lives. It has no cleanliness requirement. Dead ends stay in. Commented-out experiments stay in. Variable names that only made sense at 2am stay in. It is never shared and never needs to be.\nThe record notebook is written once you understand the shape of the answer. It tells one story: problem, approach, result. It runs cleanly from top to bottom. Every significant decision has a markdown cell. Outputs are saved to predictable locations.\nA practical signal for when to make the transition: when you can describe the approach out loud, in sequence, without referring to the notebook. If you can’t do that yet, you are still likely in exploration territory.\nThe record notebook is not just a cleaned-up version of the working notebook. It should be written from scratch, with the benefit of already knowing what the analysis is and what functions or code snippets matter from your exploration notebook. That distinction matters. Cleaning up an exploratory notebook tends to preserve its structure while hiding its confusion. Writing the record from scratch produces something that actually reads as intended and can also highlight any issues in your initial analysis.\nThe record notebook matters even more as AI starts to enter the analysis workflow. A model can help generate interpretations, but someone still has to verify them. And that verification depends on having a clear record of what decisions were made and why. I’ve written about why verification becomes the hardest problem in technical AI work over on Substack. Link at the end.\n\n\n4. Name Variables for the Person Who Comes Back\nVariable naming is documentation that can’t be separated from the code. Unlike comments, it can’t be deleted. Unlike markdown cells, it is present on every line that references the object.\nThe goal isn’t descriptive names for their own sake. It’s names that carry two pieces of information: what the object contains, and what stage of the workflow it represents.\nA stage-prefix convention makes both visible at a glance:\nraw_logs            # loaded directly from file, unmodified\nclean_logs          # nulls removed, depth range trimmed, curves validated\nlogs_with_vcl       # Vcl appended from a clay volume calculation\ntrain_logs          # subset used for model fitting\ntest_logs           # held-out subset, not seen during training\nFor model objects, include the algorithm and the target variable:\nmodel_rf_lithology        # random forest classifier, predicts lithology class\nmodel_lgbm_permeability   # LightGBM regressor, predicts permeability (mD)\nThe rubric is simple: a name should tell you what it is and where it sits in the workflow. If you can’t construct a name that does both, the object itself may not be clearly defined yet. That ambiguity is worth resolving before writing code that depends on it.\nOne habit that avoids the creeping df2, df3, df_final problem: name the object at creation, not at use. If you plan to rename it later, you will very unlikely rename it later.\n\n\n5. The Kernel Restart Is Not Optional\nBefore closing any record notebook, restart the kernel and run all cells from top to bottom. If it doesn’t complete cleanly, it is not finished.\nThe most common notebook failure mode is hidden state: a variable that was defined in an earlier session and no longer exists in the code, a file loaded from a path that no longer resolves, an import that worked once because another library happened to already be in memory. In the current session, everything appears correct. On a different machine, or six months later, it fails silently or not so silently at a cell with no obvious explanation.\nThe restart-and-run check is the only reliable way to surface these problems before they surface for someone else.\nThe practical objection is compute time. Some steps are expensive and re-running a full model training pass or reloading a large dataset on every review pass isn’t realistic. The pattern that handles this cleanly is to cache intermediate outputs to data/processed/ and load from cache in subsequent steps. The record notebook reads the cached output rather than re-executing the expensive step. The reproducibility standard still holds: the notebook runs top-to-bottom, deterministically, it just does not re-derive everything from raw data in a single pass.\nThe distinction worth being clear on: a notebook that produces the same outputs given the same inputs is reproducible, regardless of whether it uses cached intermediates. A notebook that only works when run in a specific order, with specific variables already in memory from a previous session, is neither reproducible nor fast. It is a future debugging problem waiting to surface at the worst possible moment.\n\n\n6. Apply the Cold Open Test Before Closing\nThe first five habits are about writing the notebook. This one is about checking whether it actually works without you.\nBefore treating any record notebook as complete, try this: close it, open it fresh, and ask whether a colleague could follow it without asking you a single question. Not a full peer review. Just a five-minute scan. Can they identify the purpose from the header? Can they locate the key decisions in the markdown? Do they know what to do with the outputs?\nIf the answer to any of those is no, the notebook is not finished regardless of whether it runs cleanly.\nIn subsurface work this test has particular weight because notebooks routinely outlive the context in which they were written. A petrophysicist moves to another asset, goes on leave, or leaves the organisation. Six months later someone needs to understand what was done and why, and the only record is the notebook. It has to stand on its own.\nA practical checklist to run before marking any record notebook complete:\n## Notebook Sign-Off Checklist\n[ ] Purpose is clear from the header without opening any code cells\n[ ] Every significant decision has a markdown explanation, not just code\n[ ] Data source and date of extraction are recorded in the header\n[ ] Assumptions and exclusions are explicitly stated\n[ ] Output file names make their contents obvious without opening them\n[ ] Header accurately reflects what the notebook actually does\n[ ] Kernel restarted and all cells run top-to-bottom without error\nThe last point on the header is easy to overlook. A header written at the start of a project often doesn’t reflect what the notebook became by the end of it. A notebook titled “exploratory curve QC” that ended up producing the formation completeness dataset used in model training is misleading to anyone who encounters it later. Update the header when the scope changes. It takes thirty seconds and it is the first thing anyone reads.\nThe cold open test is the difference between a notebook that is technically complete and one that is actually usable. In a field where analysis is regularly revisited, audited, or handed over, that gap matters more than it might seem.\n\n\nOne Habit at a Time\nThese habits compound, but they don’t all need to start at once.\nIf applying all six on your next project feels like too much overhead, start with the header cell. Write it before you write any code. It takes two minutes, it forces you to state the purpose and the assumptions before you have committed to any of them, and it is still there when you come back to the notebook in three months wondering what it was for.\nThe goal is not notebooks that look rigorous. It’s notebooks that can be explained, re-run, and handed over without a conversation first. A header cell, honest markdown at each decision point, a clean top-to-bottom run, and sixty seconds asking whether a colleague could follow it cold gets you most of the way there without slowing down the exploration that precedes it.\nThese habits matter even more as AI starts to enter the analysis workflow. When a model generates an interpretation or a processed output, someone still needs to verify it. That verification depends on having a clear record: what data went in, what decisions shaped it, and what the output actually represents. A notebook without that record doesn’t just make your own work harder to return to. It makes AI-assisted work harder to trust. I explored this problem directly in a recent piece on Substack — specifically why verification becomes the binding constraint in technical domains, and what that means for how you build and use AI tools.\n→ The Jagged Frontier: Why AI Amazes and Frustrates in Equal Measure",
     "crumbs": [
       "Misc Notes",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>6 Jupyter Notebook Habits That Make Your Work Easy to Return To</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>6 Jupyter Notebook Habits That Make Your Work Easy to Return To</span>"
     ]
   }
 ]
