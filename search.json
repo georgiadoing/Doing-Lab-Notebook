@@ -89,7 +89,7 @@
     "href": "04-Notes/labmtg6.html",
     "title": "Lab Meeting 7/21/26",
     "section": "",
-    "text": "Lab Meeting: Week 47\n\nJuly 21, 2026\n\nLab Announcements\n\neven if waiting to present at Steinmetz day, will need to do write-up\n\nProject updates\n\nSeo\nEmma\nMukundan\n[Richard] (https://colab.research.google.com/drive/1DJebRfwKg-lNibvs9DkEC3AmcALWFsb4?usp=sharing)\nquestions? hurtles? sucessess? next steps?\n\nFlash JC\n\nslides or notebooks (optional)?\noverview: 5 min total\n\nTitle, jounral, publish date, author\nMost compelling finding (1 or 2 sentence(s))\nFigure (panel) that convinces you the most\nBackground needed to interpret just that figure\nOutstanding questions/concerns/implications\n\nMukundan: iModulonMiner, PLoS Comp Bio 2024\nEmma: Mito DNA of Dogs, Animals, 2023\nSeo: Mito DNA of Orca, Genome Research, 2010\nRichard: next week :)",
+    "text": "Lab Meeting: Week 47\n\nJuly 21, 2026\n\nLab Announcements\n\neven if waiting to present at Steinmetz day, will need to do write-up\n\nProject updates\n\nSeo\nEmma\nMukundan\n[Richard] (https://colab.research.google.com/drive/1DJebRfwKg-lNibvs9DkEC3AmcALWFsb4?usp=sharing)\nquestions? hurtles? sucessess? next steps?\n\nFlash JC\n\nslides or notebooks (optional)?\noverview: 5 min total\n\nTitle, jounral, publish date, author\nMost compelling finding (1 or 2 sentence(s))\nFigure (panel) that convinces you the most\nBackground needed to interpret just that figure\nOutstanding questions/concerns/implications\n\nSeo: Shark Teeth\nRichard: next week :)",
     "crumbs": [
       "Meeting Notes",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lab Meeting 7/21/26</span>"
@@ -373,78 +373,78 @@
   {
     "objectID": "04-Notes/WeeklyNotes/gd_week_07_21_26.html",
     "href": "04-Notes/WeeklyNotes/gd_week_07_21_26.html",
-    "title": "GD Week 46",
+    "title": "GD Week 47",
     "section": "",
-    "text": "GD Weekly Notes: Week 4-5 of Summer 26",
+    "text": "GD Weekly Notes: Week 6 of Summer 26",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 46</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 47</span>"
     ]
   },
   {
     "objectID": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#focusreading",
     "href": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#focusreading",
-    "title": "GD Week 46",
+    "title": "GD Week 47",
     "section": "Focus/Reading",
     "text": "Focus/Reading\n\ngeneralized linear models and non-parametric difference in mean tests\n\nData cleaning workbook\nData analysis workbook - Poisson\nData analysis workbook - Binomial\n\nenrichment analysis (over-rep, gsea)",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 46</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 47</span>"
     ]
   },
   {
     "objectID": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#collaborations---progress",
     "href": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#collaborations---progress",
-    "title": "GD Week 46",
+    "title": "GD Week 47",
     "section": "Collaborations - progress",
     "text": "Collaborations - progress\n\nConnect with Julia Oh (Duke) over Tn-seq project/data collab\n\nmove data to stable location\n\nConnect with Josh Chuah (BME) over SHAP collab\n\nreconnect in August\n\nConnect with Emily and Memo (NEB) over E coli collab\nConnect with Carol Weiss (Psychology) over data analytics collab\n\nfinish manuscript/figs tonight!\nmeeting tomorrow",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 46</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 47</span>"
     ]
   },
   {
     "objectID": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#sharedoverall-to-do",
     "href": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#sharedoverall-to-do",
-    "title": "GD Week 46",
+    "title": "GD Week 47",
     "section": "Shared/Overall To-do",
     "text": "Shared/Overall To-do\n\nMG1655-only model for Berkman lab\nPlan sampling excursion\nOrder reagent(s)\nImplement tuner method in adage class\nE. coli gene lists for enrichment analyses",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 46</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 47</span>"
     ]
   },
   {
     "objectID": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#functional-learning-to-do",
     "href": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#functional-learning-to-do",
-    "title": "GD Week 46",
+    "title": "GD Week 47",
     "section": "Functional-learning To-do",
     "text": "Functional-learning To-do\n\nGet P.a. DNA seq\nS. aureus gene lists for enrichment analysis",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 46</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 47</span>"
     ]
   },
   {
     "objectID": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#phylo-learning-to-do",
     "href": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#phylo-learning-to-do",
-    "title": "GD Week 46",
+    "title": "GD Week 47",
     "section": "Phylo-learning To-Do",
     "text": "Phylo-learning To-Do\n\nP. aeruginosa gene lists for enrichment analysis\nP. aeruginosa gene expression compendium",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 46</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 47</span>"
     ]
   },
   {
     "objectID": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#bio-xai-to-do",
     "href": "04-Notes/WeeklyNotes/gd_week_07_21_26.html#bio-xai-to-do",
-    "title": "GD Week 46",
+    "title": "GD Week 47",
     "section": "Bio-xAI To-do",
     "text": "Bio-xAI To-do\n\nmodel to test SHAP tutorial on (MG1655 only)",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 46</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>GD Week 47</span>"
     ]
   },
   {
