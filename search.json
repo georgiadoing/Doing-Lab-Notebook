@@ -10,11 +10,11 @@
     ]
   },
   {
-    "objectID": "index.html#summer-research-2026",
-    "href": "index.html#summer-research-2026",
+    "objectID": "index.html#research-2026---488s-and-more",
+    "href": "index.html#research-2026---488s-and-more",
     "title": "Doing-Lab-Notebook",
-    "section": "Summer Research 2026!",
-    "text": "Summer Research 2026!",
+    "section": "Research 2026 - 488s and more!",
+    "text": "Research 2026 - 488s and more!",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
     ]
@@ -32,12 +32,23 @@
   {
     "objectID": "04-Notes/labmtg10.html",
     "href": "04-Notes/labmtg10.html",
-    "title": "Lab Meeting 7/28/26",
+    "title": "Lab Meeting 9/10/26",
     "section": "",
-    "text": "Lab Meeting: Week 48\n\nJuly 28, 2026\n\nLab Announcements\n\nwill need to do write-up\nsubmit via google sheet to Office of Undergraduate Research\nPDF, write-up more like proposal than “notebook”\n\nOK if results are different than was originally planned, just write what you did\n\nNext week, last lab meeting, Friday… time?\nPull requests for code review!\n\nProject updates\n\nEmma: connect gpa to compendia?\nSeo: filtering?\nMukundan: filtering before/after transfer functions?\nRichard: scripting functions, documentation?\nGeorgia: got a friend to help with samples, still going to try an sequence! (data will come in after, that is ok, it will still be on your grant money, credit you as the projects continue)\n\nFlash JC\n\nSeo: Shark Teeth\nMukundan: eADAGE",
+    "text": "Lab Meeting: Fall ’26, Week 1",
     "crumbs": [
       "Meeting Notes",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Meeting 7/28/26</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Meeting 9/10/26</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/labmtg10.html#descriptions",
+    "href": "04-Notes/labmtg10.html#descriptions",
+    "title": "Lab Meeting 9/10/26",
+    "section": "488 Descriptions",
+    "text": "488 Descriptions\n\nFall 2026: Assessing Explainability in Biological Data Mining – Georgia Doing\nMining biological data has been aided by machine learning models that are particularly good at picking up non-linear relationships, mirroring molecular mechanisms like positive and negative feedback loops and threshold effects. We will use post-hoc explainability algorithms to trace mined patterns and determine which result from artifice and which are testable, with the potential to uncover novel biology.\nIndividual projects with no prerequisites\n\n\nWinter 2027: Modeling Model Microbes – Georgia Doing\nEvolution has led to a diversity of microbes spanning deadly pathogens and therapeutic commensals that share anywhere from 2.5% to 99.9% of their DNA. In the tradition of leveraging well-studied model organisms to uncover biology in novel species, we will use transfer learning neural networks to benchmark how unrelated two microbes may be while still serving as useful models for each other.\nIndividual projects with no prerequisites",
+    "crumbs": [
+      "Meeting Notes",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Meeting 9/10/26</span>"
     ]
   },
   {
