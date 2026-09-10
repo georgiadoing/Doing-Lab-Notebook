@@ -38,7 +38,7 @@ jupyter: python3
 	* Thursday      3:00 pm - 3:30 pm
 	* subject to change, check course website for most up-to-date schedule
 	* drop-in or schedule a 15 minute slot: 
-		<https://calendar.app.google/8bus6pfDvyphR9ar5>
+		<https://calendar.app.google/RXiEQa9ZqiR2ETy16>
 	* by appointment for another time or over zoom
 
 
