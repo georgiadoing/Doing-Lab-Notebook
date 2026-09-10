@@ -287,23 +287,23 @@ Any community agreed upon additions:
 | ---- | --------------------------------------- | ---------------------- |----------:|
 | 1    | Introductions                           | Onboarding             | mtg 9/10
 |      |                                         | &emsp;                 |
-| 2    |                                         |.                       | 9/17
+| 2    |                                         | Hypothesis/design      | 9/17
 |      |                                         | &emsp;                 |
 | 3    |                                         |  Practice Pitches      | 9/24   
 |      |                                         | &emsp;                 |
 | 4    |                                         | Elevator Pitches       | 10/1
 |      |                                         | &emsp;                 | 
-| 5    |                                         |                        | 10/8
+| 5    |                                         | Revised Design         | 10/8
 |      |                                         | &emsp;                 |
-| 6    |                                         |                        | 10/15
+| 6    |                                         |  Draft Introduction    | 10/15
 |      |                                         | &emsp;                 |
-| 7    |                                         |                        | 10/22
+| 7    |                                         |   Initial Results     | 10/22
 |      |                                         | &emsp;          |
-| 8    |                                         |                        | 10/29
+| 8    |                                         |   Results/Discussion   | 10/29
 |      |                                         | &emsp;          |
-| 9    |                                         |                          | 11/5
+| 9    |                                         |    Full   Draft        | 11/5
 |      |                                         | &emsp;         |
-| 10   |                                         |                          | 11/12
+| 10   |                                         |    Final Report        | 11/12
 |      |                                         |                                  |
 
 
