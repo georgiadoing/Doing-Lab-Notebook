@@ -5,7 +5,7 @@ format:
         number-sections: true
         mainfont: "Avenir"
         sansfont: "Avenir"
-        include-in-header: preamble.tex
+        include-in-header: ../preamble.tex
 jupyter: python3
 ---
 
@@ -76,6 +76,8 @@ The course grade is split into two parts, process and products, each part being 
 ## Process:
 
 This encapsulates all the work you do to learn about the subject matter and apply your knowledge to solve the problem.
+
+* See the [rubric](https://docs.google.com/spreadsheets/d/1giQeqvVewiKWbVoi8mKAddah58dZ6pIuYwWzfqU23IA/edit?usp=sharing) for details
 
 ### Project Success (25%):
 
@@ -191,7 +193,19 @@ In the world of CS research, you are free to build on the work of others, assumi
 
 Your elevator pitch, final showcase, and report should contain appropriate citations of scholarly work and an acknowledgment of the work and aid others contributed to allow you to complete the task.
 
-## Generative AI.
+## Generative AI
+
+Understanding how to live and work with digital tools and platforms – from statistical software to data visualization tools to artificial intelligence tools – is an essential skill for all students in this day in age. An important part of using these tools is knowing their limits. Therefore, the use of Generative AI tools isn't allowed under any circumstances for manuscripts or code that is submitted for publication. In general, anything you submit to me for feedback, anything I read, should be from your own mind and be written by your own hand. However, in throubleshooting, I encourage you to use all the tools available to you (and that you are familiar enough with to use efficiently and effectively) to aid your learning. This includes artificial intelligence (AI) copy writing and chatbot tools such as ChatGPT, Humata.ai, DALL-E 2, and others. If you use these tools to generate text or code, you must keep track of what was generated, even if you edit it after, and what you wrote from scratch. If you are unsure of when Generative AI tools are acceptable, please consult with the professor.
+
+Be aware that large language models like ChatGPT reproduce the inaccuracies and biases of the data they are trained on. They can provide you with results that are racist and sexist or simply false. They are also known to “hallucinate,” as they synthesize, reassemble, and present information in convincing ways while misrepresenting reality. It is your responsibility to evaluate the factual accuracy and integrity of the products these tools provide.
+
+If you use an AI tool at any point in the development and/or creation of your work for this course – you must include appropriate citations and the acknowledgment below in your Reference list:
+
+Name of publisher/tool producer. (year). Name of AI tool (version date) [Large language model].
+You must also include a full transcript of the writing or work produced by the AI tool in an appendix to your work.
+
+Consult the Generative AI citation resources appropriate to the class or discipline. For example: MLA https://style.mla.org/citing-generative-ai/  APA: https://apastyle.apa.org/blog/how-to-cite-chatgpt. Chicago: https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html. [Choose the appropriate model]
+
 
 # You belong here!
 
@@ -222,38 +236,6 @@ The library is available to help you with your research needs! Librarians can he
 
 
 
-# ACADEMIC INTEGRITY AND "ARTIFICAL INTELLIGENCE" USE
-
-Union College recognizes the need to create an environment of mutual trust as part of its educational mission. Responsible participation in an academic community requires respect for and acknowledgement of the thoughts and work of others, whether expressed in the present or in some distant time and place. Matriculation at the College is taken to signify implicit agreement with the Academic Honor Code, available at: <http://muse.union.edu/honorcode>
-
-It is each student’s responsibility to ensure that submitted work is their own and does not involve any form of academic misconduct. Students are expected to ask their course instructors for clarification regarding, but not limited to, collaboration, citations, and plagiarism. Ignorance is not an excuse for breaching academic integrity. Students are also required to affix the full Honor Code Affirmation, or the following shortened version, on each item of coursework submitted for grading: 
-
-Union College has an honor code as follows. That material will appear in every notebook you submit to me for grading. 
-
-> As a student at Union College, I am part of a community that values intellectual effort, curiosity and discovery. I understand that in order to truly claim my educational and academic achievements, I am obligated to act with academic integrity. Therefore, I affirm that I will carry out my academic endeavors with full academic honesty, and I rely on my fellow students to do the same.
-
-Scholastic dishonesty is misrepresenting someone else's work as your own and will not be tolerated. 
-
-For this class in particular, we encourage working together during class time. If you missed something, talk to me, talk to your classmates or reach out via piazza or helpdesk. However ALL HOMEWORK must be completed individually. 
-You are encouraged to:
-
-
-*	Talk about concepts in solutions
-*	Discuss ideas
-*	Look up online documentation, or examples
-
-You MAY NOT:
-
-
-*	Share code
-*	Look at another student’s code
-*	Look up solutions to specific problems on the internet
-*	Copy or paste any text or code to or from a large language model
-
-Ultimately, I may choose to call you into office hours to explain the choices you made in solving a problem. You should be comfortable with explaining the choices you made, how that choice was implemented and why. 
-
-Your goal for discussions about any assignment should be that you come away with a better understanding of the problem and of possible ways to approach it so that you can then try out these approaches on your own. You should never leave a discussion with just an answer, without an understanding of how to arrive at that answer. 
-A good general guideline for any discussion, or interaction with an AI model, is that you should not leave the discussion with anything written or typed.
 
 
 
@@ -298,60 +280,33 @@ Any community agreed upon additions:
 
 # TENTATIVE SCHEDULE
 
+* showcase?
+* final drafts?
+
 | W | TOPIC                                   | Due                              | Notes|
 | ---- | --------------------------------------- | ---------------------- |----------:|
-| 1    | Scope of Biological Data          | HW 01              | 
+| 1    | Introductions                           | Onboarding             | mtg 9/10
+|      |                                         | &emsp;                 |
+| 2    |                                         |.                       | 9/17
+|      |                                         | &emsp;                 |
+| 3    |                                         |  Practice Pitches      | 9/24   
+|      |                                         | &emsp;                 |
+| 4    |                                         | Elevator Pitches       | 10/1
+|      |                                         | &emsp;                 | 
+| 5    |                                         |                        | 10/8
+|      |                                         | &emsp;                 |
+| 6    |                                         |                        | 10/15
+|      |                                         | &emsp;                 |
+| 7    |                                         |                        | 10/22
+|      |                                         | &emsp;          |
+| 8    |                                         |                        | 10/29
+|      |                                         | &emsp;          |
+| 9    |                                         |                          | 11/5
 |      |                                         | &emsp;         |
-| 2    | Arc of Analyses  | HW 02                             |
-|      |                                         | &emsp;           |
-| 3    | Sequence Alignment                      | HW 03, Project Proposal                            |
-|      |                                         | &emsp;          |
-| 4    | Data Wrangling                  | HW 04   | 
-|      |                                         | &emsp;          |
-| 5    | Dimensionality Reduction                      |  Exploratory Analyses           |
-|      |                                         | &emsp;   |
-| 6    | Visualization                          | Figure Drafts     |
-|      |                                         | &emsp;         |
-| 7    | Hypothesis Testing                            |  Results        |
-|      |                                         | &emsp;          |
-| 8    | Peer Review                  |  Peer Review  | 
-|      |                                         | &emsp;          |
-| 9    | Methodological Comparative Analysis                            |  Response to Reviewers          |
-|      |                                         | &emsp;         |
-| 10   | Project Presentations           | Final Project & Presentation  |
+| 10   |                                         |                          | 11/12
 |      |                                         |                                  |
 
 
 {{< pagebreak >}}
 
-
-# PROGRESS TRACKER
-
-
-
-| Learning Goals                     | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 | Week 10|
-| --------------------------| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| How is sequence |  &emsp;  |  &emsp;   |  &emsp;  |   &emsp;  |  &emsp;   |  &emsp;    |  &emsp;   |  &emsp;   | &emsp;   |  &emsp;   |
-|  data transformed   |        |        |        |        |        |        |        |        |        |         |
-|  into quantitative   |        |        |        |        |        |        |        |        |        |         |
-| data    |        |        |        |        |        |        |        |        |        |         |
-| &emsp;  |        |        |        |        |        |        |        |        |        |         |
-| Data                                            |        |        |        |        |        |        |        |        |        |         |
-| wragling                                            |        |        |        |        |        |        |        |        |        |         |
-| &emsp;  |        |        |        |        |        |        |        |        |        |         |
-| &emsp;  |        |        |        |        |        |        |        |        |        |         |
-| Data                                            |        |        |        |        |        |        |        |        |        |         |
-| visualization                                            |        |        |        |        |        |        |        |        |        |         |
-| &emsp;  |        |        |        |        |        |        |        |        |        |         |
-| Interdisciplinary                                             |        |        |        |        |        |        |        |        |        |         |
-| communication                                            |        |        |        |        |        |        |        |        |        |         |
-| &emsp;  |        |        |        |        |        |        |        |        |        |         |
-| Aquire and 
- prepare data                                                 |        |        |        |        |        |        |        |        |        |         |
-| &emsp;  |        |        |        |        |        |        |        |        |        |         |
-| Descriptive                                                 |        |        |        |        |        |        |        |        |        |         |
-| analysis                                                  |        |        |        |        |        |        |        |        |        |         |
-| &emsp;  |        |        |        |        |        |        |        |        |        |         |
-| Independent                                                 |        |        |        |        |        |        |        |        |        |         |
-| project                                                  |        |        |        |        |        |        |        |        |        |         |
 
