@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.24">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -69,15 +69,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="../04-Notes/onboarding.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-f59f578aac83223b69f47cfbacfca593.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-bab1cb063bcfe22a7bb2bd1ce24d65cd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -137,9 +136,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
-      <a href="../index.html" class="sidebar-logo-link">
-      </a>
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="../">Doing-Lab-Notebook</a> 
         <div class="sidebar-tools-main">
@@ -178,6 +175,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04-Notes/labmtg11.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Lab Meeting 9/17/26</span></a>
+  </div>
+</li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../04-Notes/labmtg10.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Lab Meeting 9/10/26</span></a>
@@ -355,10 +357,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>The practical difference is in how you use markdown cells. Not as labels for the code below them, but as the reasoning that precedes it.</p>
 <p>Compare these two approaches to the same step.</p>
 <p><strong>Label</strong> (not enough):</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## GR Cleaning</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>Removing negative values and normalising.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## GR Cleaning</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>Removing negative values and normalising.</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p><strong>Decision log</strong> (what you actually need):</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## GR Curve: Cleaning Decisions</span></span>
+<div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## GR Curve: Cleaning Decisions</span></span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>Negative GR values present in 3 wells (n=14 samples total). Spike pattern</span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>and depth distribution consistent with tool noise rather than formation signal.</span>
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>Excluded prior to any formation-level analysis.</span>
@@ -366,7 +368,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>Normalisation: min-max applied rather than z-score. Reason: preserves the</span>
 <span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>shape of the GR distribution across formations, which matters for the</span>
 <span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>cross-plot in section 4. Z-score would compress the tails where the</span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>lithological contrast is most visible.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>lithological contrast is most visible.</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>The code that follows executes the decision. The markdown records it.</p>
 <p>When you return to this notebook in four months, you don’t need to reverse-engineer the reasoning from the code. It is written down. When a colleague picks it up, they know not just what was done but why, and under what assumptions.</p>
 <p>A useful test: if you cannot write a defensible markdown cell for a step, that is a signal the decision itself needs more thought before you commit it to code.</p>
@@ -374,7 +376,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="write-the-header-before-you-write-any-code" class="level3">
 <h3 class="anchored" data-anchor-id="write-the-header-before-you-write-any-code">2. Write the Header Before You Write Any Code</h3>
 <p>At the start of any notebook, you can save yourself time later on by spending two minutes writing a header cell before writing a single line of code.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu"># Project: Volve Field -- Petrophysical QC</span></span>
+<div class="sourceCode" id="cb3"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu"># Project: Volve Field -- Petrophysical QC</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">## Notebook: 03_formation_analysis -- Curve Completeness Assessment</span></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>**Purpose:**</span>
@@ -395,11 +397,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a><span class="in">`data/processed/curve_completeness_by_formation.csv`</span></span>
 <span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a><span class="in">`outputs/figures/completeness_heatmap.png`</span></span>
 <span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>**Last updated:** 2026-02-26 | **Status:** Complete</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>**Last updated:** 2026-02-26 | **Status:** Complete</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>The two sections that matter most in geoscience or data science work are data provenance and assumptions.</p>
 <p>Data provenance answers: where did this data come from, when was it obtained, and exactly which subset are you working with. A file path tells you nothing about whether the data came from a live database pull last week or a spreadsheet that was emailed across six months ago. Source and scope belong in the header because they are invisible everywhere else.</p>
 <p>Additionally, a file path that resolves on your machine and nowhere else is not provenance. It is a dead end. If the data lives anywhere other than a shared location the next person is guaranteed to have access to, the header needs to explain how to get it:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>**Input:**</span>
+<div class="sourceCode" id="cb4"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>**Input:**</span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="in">`data/raw/volve_well_logs.csv`</span></span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>Source: Volve open dataset, DISKOS export, retrieved 2026-01-15.</span>
 <span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
@@ -407,7 +409,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>Access: Shared project drive at <span class="sc">\\</span>server\projects\volve_qc\data\raw\</span>
 <span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>If unavailable, contact data management or re-export from DISKOS using</span>
-<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>the query parameters documented in <span class="in">`docs/data_export_notes.md`</span>.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>the query parameters documented in <span class="in">`docs/data_export_notes.md`</span>.</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>The fields that matter when access is not guaranteed: where the file physically lives or can be retrieved from, who to contact if access is unavailable, how it was originally obtained so it can be re-obtained the same way, and any query parameters or export settings used. A re-export with different settings is not the same dataset, and that distinction will not be obvious to the person picking up the notebook six months later.</p>
 <p>Assumptions and exclusions are where the interpretive choices live. Collapsing Brent Group subdivisions is a meaningful geological decision. Excluding above-casing intervals is a meaningful QC decision. Both are defensible. Neither shows up in the code without a comment, and comments are the first thing to disappear during a cleanup. The header cell is permanent.</p>
 <p>A simple status message can inform you and other notebook users whether this is a complete notebook or if it is still a work in progress.</p>
@@ -430,14 +432,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Variable naming is documentation that can’t be separated from the code. Unlike comments, it can’t be deleted. Unlike markdown cells, it is present on every line that references the object.</p>
 <p>The goal isn’t descriptive names for their own sake. It’s names that carry two pieces of information: what the object contains, and what stage of the workflow it represents.</p>
 <p>A stage-prefix convention makes both visible at a glance:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>raw_logs            <span class="co"># loaded directly from file, unmodified</span></span>
+<div class="sourceCode" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>raw_logs            <span class="co"># loaded directly from file, unmodified</span></span>
 <span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>clean_logs          <span class="co"># nulls removed, depth range trimmed, curves validated</span></span>
 <span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>logs_with_vcl       <span class="co"># Vcl appended from a clay volume calculation</span></span>
 <span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>train_logs          <span class="co"># subset used for model fitting</span></span>
-<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>test_logs           <span class="co"># held-out subset, not seen during training</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>test_logs           <span class="co"># held-out subset, not seen during training</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>For model objects, include the algorithm and the target variable:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>model_rf_lithology        <span class="co"># random forest classifier, predicts lithology class</span></span>
-<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>model_lgbm_permeability   <span class="co"># LightGBM regressor, predicts permeability (mD)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="sourceCode" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>model_rf_lithology        <span class="co"># random forest classifier, predicts lithology class</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>model_lgbm_permeability   <span class="co"># LightGBM regressor, predicts permeability (mD)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>The rubric is simple: a name should tell you what it is and where it sits in the workflow. If you can’t construct a name that does both, the object itself may not be clearly defined yet. That ambiguity is worth resolving before writing code that depends on it.</p>
 <p>One habit that avoids the creeping <code>df2</code>, <code>df3</code>, <code>df_final</code> problem: name the object at creation, not at use. If you plan to rename it later, you will very unlikely rename it later.</p>
 </section>
@@ -456,14 +458,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>If the answer to any of those is no, the notebook is not finished regardless of whether it runs cleanly.</p>
 <p>In subsurface work this test has particular weight because notebooks routinely outlive the context in which they were written. A petrophysicist moves to another asset, goes on leave, or leaves the organisation. Six months later someone needs to understand what was done and why, and the only record is the notebook. It has to stand on its own.</p>
 <p>A practical checklist to run before marking any record notebook complete:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## Notebook Sign-Off Checklist</span></span>
+<div class="sourceCode" id="cb7"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## Notebook Sign-Off Checklist</span></span>
 <span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="co">[ ]</span> Purpose is clear from the header without opening any code cells</span>
 <span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="co">[ ]</span> Every significant decision has a markdown explanation, not just code</span>
 <span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a><span class="co">[ ]</span> Data source and date of extraction are recorded in the header</span>
 <span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="co">[ ]</span> Assumptions and exclusions are explicitly stated</span>
 <span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a><span class="co">[ ]</span> Output file names make their contents obvious without opening them</span>
 <span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a><span class="co">[ ]</span> Header accurately reflects what the notebook actually does</span>
-<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a><span class="co">[ ]</span> Kernel restarted and all cells run top-to-bottom without error</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a><span class="co">[ ]</span> Kernel restarted and all cells run top-to-bottom without error</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>The last point on the header is easy to overlook. A header written at the start of a project often doesn’t reflect what the notebook became by the end of it. A notebook titled “exploratory curve QC” that ended up producing the formation completeness dataset used in model training is misleading to anyone who encounters it later. Update the header when the scope changes. It takes thirty seconds and it is the first thing anyone reads.</p>
 <p>The cold open test is the difference between a notebook that is technically complete and one that is actually usable. In a field where analysis is regularly revisited, audited, or handed over, that gap matters more than it might seem.</p>
 </section>
@@ -531,14 +533,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

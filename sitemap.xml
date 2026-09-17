@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/index.html</loc>
-    <lastmod>2026-09-09T16:45:31.645Z</lastmod>
+    <lastmod>2026-09-09T16:45:31.644Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/02-Main/schedule.html</loc>
@@ -10,7 +10,11 @@
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/02-Main/syllabus.html</loc>
-    <lastmod>2026-09-10T17:27:29.734Z</lastmod>
+    <lastmod>2026-09-10T17:27:29.733Z</lastmod>
+  </url>
+  <url>
+    <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/labmtg11.html</loc>
+    <lastmod>2026-09-17T18:23:57.320Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/labmtg10.html</loc>
@@ -18,11 +22,11 @@
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/labmtg7.html</loc>
-    <lastmod>2026-07-28T18:18:48.392Z</lastmod>
+    <lastmod>2026-07-28T18:18:48.391Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/labmtg6.html</loc>
-    <lastmod>2026-07-21T19:44:25.303Z</lastmod>
+    <lastmod>2026-07-21T19:44:25.302Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/labmtg5.html</loc>
@@ -34,7 +38,7 @@
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/labmtg3.html</loc>
-    <lastmod>2026-06-26T15:29:53.639Z</lastmod>
+    <lastmod>2026-06-26T15:29:53.638Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/labmtg2.html</loc>
@@ -42,19 +46,19 @@
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/labmtg1.html</loc>
-    <lastmod>2026-06-26T14:54:22.123Z</lastmod>
+    <lastmod>2026-06-26T14:54:22.122Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/gd_week1.html</loc>
-    <lastmod>2026-06-26T15:04:38.922Z</lastmod>
+    <lastmod>2026-06-26T15:04:38.921Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/gd_week2.html</loc>
-    <lastmod>2026-06-26T15:04:44.626Z</lastmod>
+    <lastmod>2026-06-26T15:04:44.625Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/WeeklyNotes/gd_week_07_06_26.html</loc>
-    <lastmod>2026-07-06T14:50:11.514Z</lastmod>
+    <lastmod>2026-07-06T14:50:11.513Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/WeeklyNotes/gd_week_07_15_26.html</loc>
@@ -62,7 +66,7 @@
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/WeeklyNotes/gd_week_07_21_26.html</loc>
-    <lastmod>2026-07-23T14:44:57.149Z</lastmod>
+    <lastmod>2026-07-23T14:44:57.148Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/WeeklyNotes/gd_week_07_28_26.html</loc>
@@ -74,15 +78,15 @@
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/medium_nb.html</loc>
-    <lastmod>2026-06-15T12:45:41.270Z</lastmod>
+    <lastmod>2026-06-15T12:45:41.269Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/proposal_MT.html</loc>
-    <lastmod>2026-06-15T12:34:04.021Z</lastmod>
+    <lastmod>2026-06-15T12:34:04.020Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/proposal_SP.html</loc>
-    <lastmod>2026-06-15T12:40:51.362Z</lastmod>
+    <lastmod>2026-06-15T12:40:51.361Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/04-Notes/proposal_ES.html</loc>
@@ -90,6 +94,6 @@
   </url>
   <url>
     <loc>https://georgiadoing.github.io/Doing-Lab-Notebook/DCBlabnotes.pdf</loc>
-    <lastmod>2026-09-10T19:19:07.504Z</lastmod>
+    <lastmod>2026-09-17T18:31:21.466Z</lastmod>
   </url>
 </urlset>
