@@ -31,7 +31,7 @@ jupyter: python3
 * Location: ISEC 070
 * Student/Office Hours: 
 	* Wednesday  2:00 pm - 3:30 pm
-	* Thursday      4:00 pm - 5:30 pm
+	* Thursday      2:00 pm - 3:30 pm
 	* subject to change, check course website for most up-to-date schedule
 	* drop-in or schedule a 15 minute slot: 
 		<https://calendar.app.google/8bus6pfDvyphR9ar5>
